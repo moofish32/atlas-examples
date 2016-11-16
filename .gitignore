@@ -8,3 +8,6 @@ terraform.tfstate*
 # vim temp files
 .*.swp
 .*.swp
+
+# ignore pem files
+*.pem
